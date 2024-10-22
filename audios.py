@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May  7 11:08:02 2024
-
-@author: HP
-"""
-
 import wave
 
 def hide_message(audio_file, message):
